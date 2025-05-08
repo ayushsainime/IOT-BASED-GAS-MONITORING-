@@ -24,7 +24,6 @@ MQ5 Gas Sensor, Load Cell + HX711, Solenoid Valve, LCD, Buzzer, RGB LEDs
 
 ![image](https://github.com/user-attachments/assets/8d4de393-cf32-40f5-ad03-81cf21782c12)
 
-![WhatsApp Image 2025-04-18 at 15 23 14_6e0dc971](https://github.com/user-attachments/assets/c8c3d64c-e8e1-4276-8981-96ce05bbd389)
 
 
 
